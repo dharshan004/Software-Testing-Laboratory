@@ -17,13 +17,6 @@ Cases
 
  
 
-for i in range(r1):
-    for j in range(c2):
-        print(result[i][j],end=" ")
-        print()
-else:
-    print("enter a valid number") 
-
 
 
 
