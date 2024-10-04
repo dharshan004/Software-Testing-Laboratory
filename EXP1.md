@@ -99,6 +99,7 @@ def iterate():
 iterate() 
 ```
 
+![Screenshot (56)](https://github.com/user-attachments/assets/55c8835f-7a5e-4b6c-9161-3908610e769b)
 
 
 
@@ -114,7 +115,6 @@ iterate()
 
 ### Output:
 
-![Screenshot 2024-09-06 113110(2)](https://github.com/user-attachments/assets/8f63a078-9e6b-4c65-b8e2-d029f94cddba)
 
 
 
