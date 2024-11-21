@@ -15,8 +15,9 @@ Algorithm:
 4. Get the values of two matrix.
 5. Perform matrix multiplication and store the answer in result.
 6. Stop the program.
-### Program:
 
+
+### Program:
 ```
 r1, c1 = input("Enter row and column count in matrix 1: ").split() 
 r2, c2 = input("Enter row and column count in matrix 2: ").split() 
@@ -77,17 +78,6 @@ else:
 
 
 ```
-
-
-
-
-
-
-
-
-
-
-
 ### Output:
 
 ```
@@ -129,15 +119,7 @@ Matrix multiplication is not possible.
 Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should
 be equal to number of rows in matrix ―bl, and rows & columns should be positive integer values. 
 
-
-
-
 ```
-
-
-
-
-
 
 ### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
