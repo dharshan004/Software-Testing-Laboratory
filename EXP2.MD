@@ -17,7 +17,11 @@ Algorithm:
 6. Stop the program.
 
 
-### Program:
+### 
+
+
+
+Program:
 ``` 
 r1, c1 = input("Enter row and column count in matrix 1: ").split() 
 r2, c2 = input("Enter row and column count in matrix 2: ").split() 
